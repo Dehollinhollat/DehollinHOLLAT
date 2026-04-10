@@ -1,13 +1,13 @@
 # Bonjour, je suis Déhollin HOLLAT 👋
 
-### Chef de Projet Data & IA — Le pont entre le management et la technique
+### Chef de Projet Data & IA - Le pont entre le management et la technique
 
 Avec un **Master en Management de Projet & Digital** et un **MBA Big Data & IA** en cours,
 je combine deux compétences rarement réunies dans un même profil :
 
-- La **vision managériale** — 3 ans d'expérience en pilotage de projets d'innovation,
+- La **vision managériale** - 3 ans d'expérience en pilotage de projets d'innovation,
   cadrage, gestion des risques, animation de parties prenantes, reporting et COPIL
-- La **maîtrise technique** — automatisation IA, analyse de données, modélisation prédictive,
+- La **maîtrise technique** - automatisation IA, analyse de données, modélisation prédictive,
   développement d'agents IA et pipelines Data
 Je construis des projets concrets end-to-end pour démontrer qu'un Chef de Projet IA
 doit comprendre ce qu'il pilote — pas seulement le gérer.
