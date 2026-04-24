@@ -32,12 +32,12 @@ doit comprendre ce qu'il pilote — pas seulement le gérer.
 | Projet | Description | Stack |
 |---|---|---|
 | [SmartDesk](https://github.com/Dehollinhollat/smartdesk) | Agent IA de support IT avec RAG et escalade automatique | Python · ChromaDB · FastAPI · Streamlit |
+| [DemandCast](https://github.com/Dehollinhollat/DemandCast) |Prévision de demande retail avec alertes rupture de stock | Prophet · Python · TensorFlow/Keras · FastAPI · n8n · Airtable · Gmail alertes |
+| [Callcoach](https://github.com/Dehollinhollat/Callcoach) |Agent IA post-call : analyse automatique des appels, email de suivi en brouillon Gmail, coaching Slack en temps réel et alertes manager | n8n · API Claude · Gmail · Slack · Google Sheet · Notion · Javascript  |
+| [Docflow](https://github.com/Dehollinhollat/Docflow) | Traitement intelligent de documents entrants (factures PDF, bons de commande, images) | pdfplumber + Claude API vision · Make · Gmail · Airtable · API entreprise.data.gouv.fr. |
 | [FlowReport](https://github.com/Dehollinhollat/flowreport) | Pipeline IA de génération automatique de rapports ESN | n8n · API Claude · Google Sheets · Gmail |
 | [RetailSense](https://github.com/Dehollinhollat/retailsense) | Analyse churn e-commerce · Segmentation RFM · Random Forest 96% | Python · SQL · scikit-learn · Power BI |
 | [DataFlow](https://github.com/Dehollinhollat/dataflow) | Pipeline ETL multi-sources avec dashboard financier temps réel | Python · DuckDB · SQLite · API · Streamlit |
-| [Docflow](https://github.com/Dehollinhollat/Docflow) | Traitement intelligent de documents entrants (factures PDF, bons de commande, images) | pdfplumber + Claude API vision · Make · Gmail · Airtable · API entreprise.data.gouv.fr. |
-| [DemandCast](https://github.com/Dehollinhollat/DemandCast) |Prévision de demande retail avec alertes rupture de stock | Prophet · Python · TensorFlow/Keras · FastAPI · n8n · Airtable · Gmail alertes |
-| [Callcoach](https://github.com/Dehollinhollat/Callcoach) |Agent IA post-call : analyse automatique des appels, email de suivi en brouillon Gmail, coaching Slack en temps réel et alertes manager | n8n · API Claude · Gmail · Slack · Google Sheet · Notion · Javascript  |
 ---
 
 ## 💼 Expériences professionnelles
