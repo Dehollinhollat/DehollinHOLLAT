@@ -5,9 +5,9 @@
 Avec un **Master en Management de Projet & Digital** et un **MBA Big Data & IA** en cours,
 je combine deux compétences rarement réunies dans un même profil :
 
-- La **vision managériale** - 3 ans d'expérience en pilotage de projets d'innovation,
+- La **vision managériale** : 3 ans d'expérience en pilotage de projets d'innovation,
   cadrage, gestion des risques, animation de parties prenantes, reporting et COPIL
-- La **maîtrise technique** - automatisation IA, analyse de données, modélisation prédictive,
+- La **maîtrise technique** : automatisation IA, analyse de données, modélisation prédictive,
   développement d'agents IA et pipelines Data
 Je construis des projets concrets end-to-end pour démontrer qu'un Chef de Projet IA
 doit comprendre ce qu'il pilote — pas seulement le gérer.
@@ -22,7 +22,7 @@ doit comprendre ce qu'il pilote — pas seulement le gérer.
 | **Gestion des parties prenantes** | Communication client · Coordination équipes · Animation ateliers |
 | **Outils PM** | Notion · Jira · Trello · MS Project · Airtable · Excel avancé |
 | **IA & Automatisation** | n8n · Make · API Claude · ChromaDB · FastAPI · RAG |
-| **Data & ML** | Python · pandas · scikit-learn · SQL · Power BI · DuckDB |
+| **Data & ML** | Python · pandas · scikit-learn · SQL · Power BI · DuckDB · Prophet · TensorFlow |
 | **Conformité** | RGPD · IA Act · Data Act |
 
 ---
@@ -31,20 +31,22 @@ doit comprendre ce qu'il pilote — pas seulement le gérer.
 
 | Projet | Description | Stack |
 |---|---|---|
-| [🟣 SmartDesk](https://github.com/Dehollinhollat/smartdesk) | Agent IA de support IT avec RAG et escalade automatique | Python · ChromaDB · FastAPI · Streamlit |
-| [🟠 FlowReport](https://github.com/Dehollinhollat/flowreport) | Pipeline IA de génération automatique de rapports ESN | n8n · API Claude · Google Sheets · Gmail |
-| [🔵 RetailSense](https://github.com/Dehollinhollat/retailsense) | Analyse churn e-commerce · Segmentation RFM · Random Forest 96% | Python · SQL · scikit-learn · Power BI |
-| [🟢 DataFlow](https://github.com/Dehollinhollat/dataflow) | Pipeline ETL multi-sources avec dashboard financier temps réel | Python · DuckDB · SQLite · API · Streamlit |
-
+| [SmartDesk](https://github.com/Dehollinhollat/smartdesk) | Agent IA de support IT avec RAG et escalade automatique | Python · ChromaDB · FastAPI · Streamlit |
+| [FlowReport](https://github.com/Dehollinhollat/flowreport) | Pipeline IA de génération automatique de rapports ESN | n8n · API Claude · Google Sheets · Gmail |
+| [RetailSense](https://github.com/Dehollinhollat/retailsense) | Analyse churn e-commerce · Segmentation RFM · Random Forest 96% | Python · SQL · scikit-learn · Power BI |
+| [DataFlow](https://github.com/Dehollinhollat/dataflow) | Pipeline ETL multi-sources avec dashboard financier temps réel | Python · DuckDB · SQLite · API · Streamlit |
+| [Docflow](https://github.com/Dehollinhollat/Docflow) | Traitement intelligent de documents entrants (factures PDF, bons de commande, images) | pdfplumber + Claude API vision · Make · Gmail · Airtable · API entreprise.data.gouv.fr. |
+| [DemandCast](https://github.com/Dehollinhollat/DemandCast) |Prévision de demande retail avec alertes rupture de stock | Prophet · Python · TensorFlow/Keras · FastAPI · n8n · Airtable · Gmail alertes |
+| [Callcoach](https://github.com/Dehollinhollat/Callcoach) |Agent IA post-call : analyse automatique des appels, email de suivi en brouillon Gmail, coaching Slack en temps réel et alertes manager | n8n · API Claude · Gmail · Slack · Google Sheet · Notion · Javascript  |
 ---
 
 ## 💼 Expériences professionnelles
 
-**Assistant Chef de Projet** — Polymeris, Services et conseil aux entreprises *(2022 — 2025)*
+**Assistant Chef de Projet**  - Polymeris, Services et conseil aux entreprises *(2022 - 2025)*:
 Pilotage de projets d'innovation industriels et technologiques : cadrage, budget, livrables,
 COPIL, gestion des risques, financement Bpi/Région/France 2030.
 
-**Chef de Projet** — Clippers Technologies *(2022)*
+**Chef de Projet** - Clippers Technologies *(2022)*:
 Suivi et contrôle d'avancement de projets IT B2B, coordination équipes techniques et clients.
 
 ---
@@ -65,6 +67,8 @@ Suivi et contrôle d'avancement de projets IT B2B, coordination équipes techniq
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Prophet](https://img.shields.io/badge/Prophet-1.3.0-orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.21-red)
 
 **Bases de données**
 
