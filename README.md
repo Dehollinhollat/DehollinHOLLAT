@@ -10,7 +10,7 @@ je combine deux compétences rarement réunies dans un même profil :
 - La **maîtrise technique** : automatisation IA, analyse de données, modélisation prédictive,
   développement d'agents IA et pipelines Data
 Je construis des projets concrets end-to-end pour démontrer qu'un Chef de Projet IA
-doit comprendre ce qu'il pilote — pas seulement le gérer.
+doit comprendre ce qu'il pilote - pas seulement le gérer.
 
 ---
 
